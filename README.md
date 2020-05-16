@@ -58,4 +58,4 @@ Machine Lerning Pipeline- A machine learning pipeline is used to help automate m
 
 The project also include a web app with bootstap and Flask where an emergency worker can input a new message and get classification results in several categories.
 
-![disaster graph2](Disaster_response_project_dashboard_screenshot.jpg)
+![disaster graph1](AdityarNarayan/Disaster_Response_Udacity_project_3/blob/master/Disaster_response_project_dashboard_screenshot.JPG)
