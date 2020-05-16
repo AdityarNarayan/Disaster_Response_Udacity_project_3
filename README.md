@@ -6,7 +6,6 @@
 4. Libraries used
 5. Executing Program
 6. Snapshots
-7. Author
 
 ### 1. Introduction
 
@@ -58,4 +57,10 @@ Machine Lerning Pipeline- A machine learning pipeline is used to help automate m
 
 The project also include a web app with bootstap and Flask where an emergency worker can input a new message and get classification results in several categories.
 
+The below image showing the dashboard as per the genre of the messages
 ![disaster graph1](https://github.com/AdityarNarayan/Disaster_Response_Udacity_project_3/blob/master/Disaster_response_project_dashboard_screenshot.JPG)
+
+The below image showing the interface of classifying the message in real time. We just need to type message in the box and hit the enter. Vollah here you got the classification of the message.
+
+![disaster graph2](https://github.com/AdityarNarayan/Disaster_Response_Udacity_project_3/blob/master/New_message_classification_screenshot.JPG)
+
