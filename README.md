@@ -70,4 +70,4 @@ The below image showing the interface of classifying the message in real time. W
 Please find git hub repository link below for this project.
 
 https://github.com/AdityarNarayan/Disaster_Response_Udacity_project_3
-https://github.com/AdityarNarayan/Disaster_Response_Udacity_project_3
+
