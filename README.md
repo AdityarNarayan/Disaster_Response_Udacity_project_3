@@ -6,7 +6,7 @@
 4. Libraries used
 5. Executing Program
 6. Snapshots
-7.Github rpository link
+7. Github rpository link
 
 ### 1. Introduction
 
